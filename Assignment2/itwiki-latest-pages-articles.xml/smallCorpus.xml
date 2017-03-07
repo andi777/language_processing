@@ -1,0 +1,500 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="it">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>itwiki</dbname>
+    <base>https://it.wikipedia.org/wiki/Pagina_principale</base>
+    <generator>MediaWiki 1.29.0-wmf.13</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Speciale</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Discussione</namespace>
+      <namespace key="2" case="first-letter">Utente</namespace>
+      <namespace key="3" case="first-letter">Discussioni utente</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Discussioni Wikipedia</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">Discussioni file</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Discussioni MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Discussioni template</namespace>
+      <namespace key="12" case="first-letter">Aiuto</namespace>
+      <namespace key="13" case="first-letter">Discussioni aiuto</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Discussioni categoria</namespace>
+      <namespace key="100" case="first-letter">Portale</namespace>
+      <namespace key="101" case="first-letter">Discussioni portale</namespace>
+      <namespace key="102" case="first-letter">Progetto</namespace>
+      <namespace key="103" case="first-letter">Discussioni progetto</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Discussioni modulo</namespace>
+      <namespace key="2300" case="first-letter">Accessorio</namespace>
+      <namespace key="2301" case="first-letter">Discussioni accessorio</namespace>
+      <namespace key="2302" case="case-sensitive">Definizione accessorio</namespace>
+      <namespace key="2303" case="case-sensitive">Discussioni definizione accessorio</namespace>
+      <namespace key="2600" case="first-letter">Argomento</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Armonium</title>
+    <ns>0</ns>
+    <id>2</id>
+    <revision>
+      <id>83431090</id>
+      <parentid>82477294</parentid>
+      <timestamp>2016-09-24T14:25:49Z</timestamp>
+      <contributor>
+        <username>Pufui PcPifpef</username>
+        <id>461628</id>
+      </contributor>
+      <comment>/* Altri progetti */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{nota disambigua|il complesso italiano|Armonium (gruppo musicale)}}&lt;!--
+## ATTENZIONE ##
+* Questa nota disambigua è usata come esempio in [[Aiuto:Disambigua#Tipi di disambiguazione]] (§B.B1).
+* Se fai delle modifiche, verifica che l'esempio resti valido oppure sostituiscilo con un altro.
+--&gt;
+{{NN|strumenti musicali|gennaio 2016}}
+{{Strumento musicale
+|Nome = Armonium o Armonio
+|Immagine = Harmonium Alexandre.JPG
+|Didascalia = Un armonium
+|Data di invenzione = XIX secolo
+|Inventore = [[Debain]], [[Mustel]]
+|Origine geografica = Europa occidentale
+|Codice completo = 412.132
+|Codice classificazione = 4.6
+|Utilizzo 1 = romantica
+|Utilizzo 2 = contemporanea
+|Utilizzo 3 = Musica dell'Asia Meridionale
+|Estensione = &lt;!-- link dell'immagine (es: Trombone range.svg) --&gt;
+|Didascalia estensione = &lt;!-- eventuale commento sull'estensione --&gt;
+|Progenitore = [[organo (strumento musicale)|organo a canne]]
+|Discendente = &lt;!-- Eventuale &quot;discendente&quot; dello strumento --&gt;
+|Ascolto = &lt;!-- Nome del file per ascoltare il suono dello strumento --&gt;
+|Didascalia ascolto = &lt;!-- Didascalia dell'ascolto --&gt;
+}}
+L''''armonium''' o '''armonio''' (in francese, ''harmonium'') è un tipo di organo costituito da una [[tastiera (musica)|tastiera]], ''manuale'', e da due [[Pedale (meccanica)|pedali]] per azionare i [[Mantice|mantici]] per l'aria; infatti l'armonium è uno [[strumento musicale|strumento a serbatoio d'aria]]. L'armonium, inoltre, rientra nella categoria degli strumenti [[aerofoni]] ad ancia libera, poiché il [[suono]] che esso produce è dovuto a delle [[ancia|ance]].
+
+== Armonium occidentale ==
+L'armonium moderno è stato realizzato da Debain e affinato da Mustel.
+Come l'[[Organo (strumento musicale)|organo]], l'armonium è utilizzato tipicamente in [[chiesa (architettura)|chiesa]], per l'esecuzione di [[musica sacra]].&lt;br /&gt;
+I registri dell'armonium sono tutti ad ancia (ance libere), e il suo [[timbro (musica)|timbro]] è molto meno ricco di quello organistico, come pure la sua estensione; i suoi effetti meccanici sono il [[tremolo (musica)|tremolo]], la [[voce umana (registro d'organo)|voce umana]] e la [[sordina]].
+
+Nei modelli più diffusi, l'aria viene immessa dall'esecutore con l'azione dei piedi su due pedali che comandano due [[mantice|mantici]]. Per regolare l'espressione si utilizzano le ''guancette'' poste ai lati delle ginocchia.
+
+Di norma è disponibile almeno un'''unione'', che funziona meccanicamente e serve a produrre una nota aggiuntiva all'[[ottava (musica)|ottava]]. Quando le unioni sono due, la prima serve per la porzione più bassa della tastiera, la seconda per quella più alta e, rispettivamente, svolgono l'azione verso l'ottava bassa e verso l'ottava alta.
+
+A causa dell'alto costo della manutenzione specializzata necessaria e della relativa difficile reperibilità, nonché dell'avvento dell'organo liturgico elettronico, gli armonium sono progressivamente scomparsi dalle chiese o vi rimangono inutilizzati.
+
+== Armonium indiano ==
+L'armonium indiano è simile a quello occidentale, ma di minori dimensioni. È stato portato in India dall'Occidente dai missionari cristiani, da circa metà Ottocento in poi. Essi avevano bisogno di uno strumento facilmente trasportabile da usare nelle funzioni religiose, e lo trovarono in questo tipo di armonium, grande all'incirca come una [[fisarmonica cromatica|fisarmonica]] e di funzionamento simile. La forma è quella di un mobiletto rettangolare, vicino al suonatore ha una tastiera (tipo [[pianoforte]]) che si estende da due a quattro ottave, e si suona con una sola mano, l'altra mano aziona un mantice a soffietto posto sul lato distante dal suonatore. La versione indiana ha poi la possibilità di mettere in funzione un certo numero di [[bordone (musica)|bordoni]] diversi ([[nota musicale|note]] costanti di sottofondo), onnipresenti nella [[musica classica indiana]] (viene azionato quello corrispondente alla [[tonica (musica)|tonica]] del pezzo suonato).
+
+La storia dell'armonium in India è strettamente correlata a quella del [[sarangi]].
+
+La caratteristica più importante dell'armonium, rispetto al contesto indiano, è l'[[intonazione]]. Essendo uno strumento occidentale, è accordato secondo il [[temperamento equabile]], sviluppato in Occidente per le esigenze della musica armonico-tonale (quindi dell'[[armonia]] basata sugli [[accordo (musica)|accordi]] e la [[modulazione (musica)|modulazione]] da una [[tonalità (musica)|tonalità]] all'altra). Questo tipo di [[accordatura]] è del tutto estraneo alla musica indiana, che è modale e non contempla accordi né cambiamenti nella tonica in una esecuzione musicale, ed è fondata su numerose e precise sfumature di intonazione dei suoni delle varie [[scala musicale|scale]], che vengono usate (incompatibili con il nostro temperamento equabile).
+
+Ma altre caratteristiche hanno fatto in modo che si inserisse ugualmente nel contesto della musica indiana (anche di quella &quot;classica&quot;). La principale è che è appunto capace di passare immediatamente da una &quot;tonalità&quot; all'altra. La musica indiana è fondata su una tonica immutabile, ma è anche vero che ogni cantante ha la sua tonica personale, e questo rende l'armonium estremamente flessibile se usato per accompagnare cantanti diversi che usano toniche diverse. Inoltre la tecnica di questo strumento, applicata alla musica indiana, è relativamente semplice.
+
+Tradizionalmente l'accompagnamento dei/delle cantanti classici era affidato al sarangi, strumento ad arco molto importante in India, dalla voce estremamente caratteristica (grazie anche alle numerose corde di risonanza), ma che per una serie di motivi si trovò a perdere in preminenza. Tra questi, la difficoltà tecnica che richiede grande dedizione da parte del musicista, ed il fatto di avere così tante corde di risonanza (che non hanno un ruolo marginale, ma sono molto importanti per la sua sonorità e per la creazione del giusto &quot;sentimento&quot; musicale). Ogni pezzo musicale (raga), basato su una diversa scala, richiede che queste corde vengano riaccordate (cosa che richiede tempo e perizia); inoltre se un medesimo sarangista si trova a dover accompagnare diversi cantanti che usano toniche diverse, deve riaccordare completamente l'intero strumento (quando non sostituire addirittura le corde).
+
+In più, i mutamenti sociali favoriti dalla dominazione coloniale britannica hanno contribuito a spingere nell'ombra i suonatori di sarangi, che si sono visti soppiantare dai nuovi suonatori di armonium: capaci di passare rapidamente da una tonica all'altra, in grado di accompagnare diversi cantanti in rapida sequenza, più adatti al nuovo contesto rapido e &quot;tecnologico&quot; che si stava formando (ad esempio i concerti radiofonici di All India Radio). La gran parte dei cantanti si è adattata a farsi accompagnare nelle loro esecuzioni dall'armonium, nonostante l'irrimediabile fatto di essere fuori intonazione. Fatto musicalmente accettabile se mantenuto in un ruolo marginale, che non si scontrasse con la voce (intonata correttamente) del/della cantante.
+
+Si venne così a creare un circolo vizioso in cui i sarangisti veramente esperti divennero pochi, ed i cantanti cominciarono a preferire i suonatori di armonium (stonati, ma sempre più intonati di un cattivo sarangista).
+
+== Bibliografia ==
+* Roberto Perinu, ''La Musica Indiana'', ed. Zanibon, Padova, 1981
+* [[Ali Akbar Khan]], George Ruckert, ''The Classical Music of North India'', Munshiram Manoharlal Publishers, New Delhi, India, 1998
+* David Courtney, Chandrakantha Courtney, ''Elementary North Indian Vocal'', Sur Sangeet Services, Houston, USA, 1995
+* Sandeep Bagchee, ''Nad – Understanding Raga Music'', Eshwar, Mumbai, India, 1998
+* [[Stuart Isacoff]], ''Temperamento – Storia di un Enigma Musicale'', ed. EDT, Torino, 2005
+
+== Voci correlate ==
+* [[Musica]]
+* [[Generi musicali]]
+* [[Giovanni Tamburini]]
+
+== Altri progetti ==
+{{Interprogetto|commons=Category:Harmoniums|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{cita web|http://harmoniums.weebly.com|Approfondimenti}}
+* {{Thesaurus BNCF}}
+
+{{Controllo di autorità}}
+{{Portale|musica}}</text>
+      <sha1>pjvi0bis0bzt1nv8dmz9deanoznepsj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Antropologia</title>
+    <ns>0</ns>
+    <id>3</id>
+    <revision>
+      <id>85879966</id>
+      <parentid>85879934</parentid>
+      <timestamp>2017-02-11T12:41:14Z</timestamp>
+      <contributor>
+        <username>Phantomas</username>
+        <id>174925</id>
+      </contributor>
+      <minor />
+      <comment>Annullate le modifiche di [[Special:Contributions/5.170.18.7|5.170.18.7]] ([[User talk:5.170.18.7|discussione]]), riportata alla versione precedente di [[User:Phantomas|Phantomas]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{nota disambigua|le scienze demo-etnoantropologiche|Scienze etnoantropologiche}}
+[[File:Heinrich fueger 1817 prometheus brings fire to mankind.jpg|thumb|Rappresentazione di [[Prometeo]] amico dell'uomo, simbolo mitico ripreso più volte dagli antropologi]]
+L''''antropologia''' (termine composto col prefisso ''antropo-'', dal [[lingua greca|greco]] ἄνϑρωπος ''ànthropos'' = &quot;uomo&quot; più il suffisso ''-logia'', dal greco λόγος, ''lògos'' = &quot;parola, discorso&quot;), nata come disciplina interna alla [[biologia]], ha acquisito in seguito anche un importante valore umanistico. Essa studia l'[[essere umano]] sotto diversi punti di vista: sociale, [[cultura]]le, [[Morfologia (biologia)|morfologico]], psicoevolutivo, artistico-espressivo, [[filosofia|filosofico]]-[[religione|religioso]] e in genere dal punto di vista dei suoi vari [[Comportamento|comportamenti]] all'interno di una [[Società (sociologia)|società]].
+
+== Cenni storici ==
+[[File:Биология.png|thumb|Rappresentazione dell'[[Uomo vitruviano]]]]
+Se già gli [[Antico Egitto|antichi Egizi]] solevano distinguere le differenze tra i popoli, raffigurando i nemici catturati con un colore della pelle diverso, come ad esempio i [[Libia|libici]] dalla pelle chiara, ed evidenziando inoltre usanze e tratti fisici differenti, come la barba lunga degli stessi uomini libici, bisognerà attendere gli studi dello [[storia|storico]] e [[geografia|geografo]] [[Grecia|greco]] [[Erodoto|Erodoto di Alicarnasso]], per poter leggere una descrizione dei caratteri di varie popolazioni antiche ([[Etiopia|Etiopi]], Greci, Egizi, [[Sciti]]), nella quale l'autore distinse tra i caratteri fisici e quelli [[Etnografia|etnografici]].&lt;ref name=&quot;U&quot;&gt;''Universo'', De Agostini, Novara, Vol. I, 1962, pag. 352-353&lt;/ref&gt;
+
+Uno dei primi precursori dell'antropologia, nell'antichità fu [[Aristotele]], che si preoccupò di classificare il mondo [[Zoologia|zoologico]], comprendente l'''uomo animale ragionevole''. Le conoscenze dei tipi umani si approfondirono grazie agli studi dei [[medicina|medici]] [[Ippocrate di Coo|Ippocrate]] e [[Galeno]] e ai racconti dei viaggiatori, da [[Marco Polo]] a [[Ferdinando Magellano|Magellano]].
+
+Nel [[XVII secolo]], in uno studio sulle [[Antille]], il [[Ordine dei Frati Predicatori|padre domenicano]] [[Jean-Baptiste Du Tertre]] descrisse in chiave antropologico-[[razza|razziale]] gli abitanti di quelle isole. Nel [[XVIII secolo|Settecento]] [[Linneo]] istituì una catalogazione delle varietà umane imperniata sia sui caratteri fisici sia su quelli morali o etnologici e l'antropologia [[XIX secolo|ottocentesca]] ricevette un grande sviluppo grazie alle ricerche fornite, qualche anno prima, da [[Georges-Louis Leclerc, conte di Buffon|Buffon]] ([[1707]]-[[1788]]), basate sul concetto di ''razza umana'' e dalla teoria dell'adattamento ai vari ambienti naturali. Seguirono [[Jean-Baptiste de Lamarck|Lamarck]] ([[1744]]-[[1829]]), [[Johann Friedrich Blumenbach|Blumenbach]] ([[1752]]-[[1840]]), con le sue norme descrittive del cranio, [[Paul Broca]] ([[1824]]-[[1880]]) e la craniometria, [[Manouvrier]] ([[1850]]-[[1927]]) con la focalizzazione dei rapporti tra [[Morfologia (biologia)|morfologia]] e funzionalità.
+
+In Italia si misero in evidenza, oltre al caposcuola [[Giustiniano Nicolucci]] ([[1819]]-[[1904]]), che nel [[1857]] scrisse il primo trattato italiano di antropologia ed etnologia; [[Giuseppe Pitrè]] ([[1841-1916]]) considerato il più importante antropologo italiano, anche [[Paolo Mantegazza]] ([[1831]]-[[1910]]) ed [[Enrico Morselli]] ([[1852]]-[[1929]]).
+
+=== Fondazione dell'antropologia: Morgan e Tylor ===
+La nuova scienza antropologica (basata sull'analisi delle strutture sociali dei popoli arcaici) ebbe un inizio promettente con [[Lewis Henry Morgan]] (1818-1881) ed [[Edward Burnett Tylor]] (1832-1917), i quali, nei loro studi sugli [[amerindi]] e su altre [[Popoli indigeni|popolazioni primitive]], rivelarono la comune struttura sociale di [[tribù]] di diversi paesi: una struttura caratterizzata da un sistema complesso di rapporti, spesso matrilineari e dalla mancanza di proprietà privata e di un apparato repressivo (prigioni, polizia, ecc. L.H. Morgan, ''Ancient society'', Londra, 1877; E.B. Tylor, ''Anahuac'', Londra, 1861). Questo fu per loro lo stato primitivo della nostra civiltà, corrispondente all'antica organizzazione sociale della [[Grecia antica]] e di [[Roma antica]].
+
+Ma questa traccia, che minacciava di minare alla sua stessa base la morale, la [[proprietà privata]] e lo Stato borghesi, era troppo pericolosa per gli antropologi accademici, i [[missionario|missionari]], gli [[esploratori]] che avevano raccolto le prime informazioni dirette sulle civiltà selvagge. Anche questo compito fu lasciato a [[Marx]] e a [[Engels]]. Da parte sua, la scienza borghese preferì porsi sul terreno del comparativismo di [[James Frazer]] (1854-1941) e di [[Westermarck]] (1862-1939) e limitarsi alla raccolta di oggetti d'arte e [[folclore]], alla ricerca delle origini razziali attraverso la misurazione dei crani. Col miglioramento delle comunicazioni e con l'intensificarsi dello sfruttamento coloniale che caratterizzarono gli ultimi decenni dell'[[XIX secolo|Ottocento]], i contatti con i popoli primitivi si moltiplicarono.
+
+E sebbene nella maggior parte dei casi questi contatti avvenissero unicamente in funzione dello sfruttamento e dello sterminio delle popolazioni indigene, resero anche possibile una maggiore conoscenza dei loro costumi e delle loro credenze. I primi studi antropologici sul posto furono quelli effettuati nel 1871 da [[Miklukho Maklai]] (1846-1888) nella [[Nuova Guinea]] e da una spedizione zoologica nello stretto di Torres e nella Nuova Guinea (1898-1899). Di questa fecero parte A. C. Haddon (1855-1940) e W. H. R. Rivers (1864-1922). Ma neanche di queste osservazioni dirette, che valsero a confermare lo schema di organizzazione tribale fornito da Morgan e Tylor, si seppe dare altro che un'interpretazione psicologica, mentre gli aspetti economici seguitarono a essere trascurati.
+
+== Impostazione dello studio ==
+Nella contemporaneità, dal punto di vista accademico, l'antropologia è suddivisa, nella tradizione di studi italiana, in due aree principali:
+
+* l'[[antropologia fisica]] (o &quot;antropologia biologica&quot;), che studia l'evoluzione e le caratteristiche fisiche degli esseri umani, la [[genetica]] delle popolazioni e le basi biologiche dei comportamenti della specie umana e dei suoi parenti più stretti, le grandi scimmie ([[primatologia]]);
+* le [[Scienze etnoantropologiche|discipline demo-etno-antropologiche]], che si occupano degli aspetti socio-culturali ecc. (ad esempio le reti di relazioni sociali, i comportamenti, usi e costumi, gli schemi di [[parentela]], le leggi e istituzioni politiche, le ideologie, religioni e credenze, gli schemi di comportamento, i modi di produzione e consumo o scambio dei beni, i meccanismi percettivi, le relazioni di potere). Grande importanza ha per tale area di studi la [[ricerca etnografica]], spesso considerata come base imprescindibile per riflessioni teoriche ed eventuali comparazioni.
+
+Generalmente, quando viene utilizzato il termine ''antropologia'' senza specificazioni, oggi ci si riferisce a questo secondo gruppo.
+
+Le definizioni &quot;[[antropologia culturale]]&quot;, di derivazione statunitense, &quot;[[antropologia sociale]]&quot;, di provenienza britannica, ed &quot;[[etnologia]]&quot;, di scuola francese, vengono spesso utilizzate per riferirsi genericamente al campo di studi delle ''scienze antropologiche'' o ''etnoantropologiche''. L'utilizzo di queste etichette comporta diverse letture teoriche dell'antropologia, che possono essere in linea di massima messe in relazione con le diverse tradizioni di studi. Tuttavia vi è ampio consenso nella contemporaneità nell'individuare un'unità epistemologica di fondo del campo disciplinare.
+
+In Italia si tende quindi a preferire la dizione &quot;scienze (o discipline) etnoantropologiche&quot; per evitare le implicazioni teoriche della scelta tra etnologia e antropologia ''sociale'' e ''culturale''. In accordo con questa tendenza la voce enciclopedica di riferimento per tale campo di studi è [[Scienze etnoantropologiche]], e in essa viene trattata la storia della disciplina.
+
+== Tematiche dell'antropologia ==
+* Essere umano e natura (la specie umana, le teorie dell'[[evoluzione]], la [[primatologia]] comparata, l'[[ecologia]] umana, la [[paleoantropologia]], l'[[antropologia molecolare]])
+* [[Società (sociologia)|Società]] e [[politica]]
+** [[politica]], la [[guerra]], (la ricerca del [[potere]] e dell'[[autorità]])
+** [[Antropologia economica]] (economia delle società tradizionali, antropologia dell'impresa)
+* [[Antropologia culturale]] e [[Antropologia dei simboli]]
+** Aspetti simbolici (arte e creatività, simboli gestuali, aspetti visuali, [[magia]] e credenze, filosofia e [[religione]])
+** Usanze e rituali (giochi della crescita e sociali, parole e comunicazione, [[Rito|riti]], costumi)
+** Corpo ([[antropologia medica]], tecniche corporali)
+* Cognizione e mente ([[educazione]], percezione, categorizzazione, teorie della [[mente]])
+* Modelli e classificazioni sociali (cultura, etnia, identità, ruoli, scambi culturali, reti sociali, gerarchia, generi sessuali)
+* [[Antropologia delle religioni]] (in prospettive storica e comparata, nella definizione di religione e negli aspetti magici e soprannaturali)
+
+Sono inoltre strettamente collegate le discipline dell'[[etno-linguistica]], che si occupa delle variazioni linguistiche delle diverse società umane, e l'[[archeologia]] e la [[paletnologia]], che indagano le società del passato attraverso i resti materiali che esse hanno lasciato (&quot;cultura materiale&quot;).
+
+== Considerazioni generali sull'antropologia ==
+
+Data l'enorme varietà di fenomeni che ricadono nel campo di interesse di questa disciplina e in seguito a evoluzioni storiche delle configurazioni e delle politiche accademiche, e non, relative ad essa, proliferano le direzioni di ricerca ed esiste, di conseguenza, una grande varietà di sottodiscipline istituzionalizzate in corsi e specializzazioni nelle università di tutto il mondo (per citarne solo alcune: antropologia visuale; antropologia dello stato; antropologia economica; antropologia amazzonica; antropologia dello sviluppo; antropologia delle organizzazioni, ecc.).
+
+La grande quantità di sottodiscipline e campi di interesse che caratterizza attualmente l'antropologia culturale e sociale deve la sua esistenza principalmente alla crisi di due pilastri delle costruzioni teoriche di entrambe: gli stessi concetti di ''cultura'' e ''società''.
+D'altra parte va pur tenuto presente che una qualsiasi società si esprime all'interno di una cultura e una cultura crea il proprio esoscheletro nella società. L’antropologia è quindi “un sapere di
+frontiera”, in quanto “nasce sulla frontiera tra culture diverse”&lt;ref&gt;Ugo FABIETTI, ''Antropologia culturale'', Laterza, 1999.&lt;/ref&gt;.
+
+== Fondamenti filosofici ==
+[[File:Immanuel Kant (painted portrait).jpg|thumb|Immanuel Kant, uno dei maggiori filosofi della storia, viene spesso indicato come contributore del pensiero antropologico]]
+Le tradizioni di pensiero moderno che possono essere definite come costituenti una ''[[antropologia filosofica]]'', hanno i principali esponenti in [[Immanuel Kant]], [[Friedrich Hegel]], [[Johann Gottfried Herder]], [[Ralph Waldo Emerson]], [[Friedrich Nietzsche]], [[Max Scheler]], [[Arnold Gehlen]] e [[Helmuth Plessner]].
+
+== Note ==
+&lt;references/&gt;
+
+== Bibliografia ==
+* Albera D., Blok A., Bomberger C., ''Antropologia del Mediterraneo'', Guerini, Milano, 2007.
+* [[Giulio Angioni|Angioni, G.]], ''Fare, dire, sentire: l'identico e il diverso nelle culture'', Il Maestrale, Torino, 2011.
+* Barth, F., ''Ethnic groups and boundaries: The social organization of culture differences'', Little Brown &amp; Co., Boston, 1969.
+* Fabietti, U., ''Storia dell'antropologia'', Zanichelli, Bologna, 2011 (terza ed.).
+* Fabietti U., Malighetti R., Matera V., ''Dal tribale al globale. Introduzione all'antropologia'', Bruno Mondadori, Milano 2012.
+* Fabietti U., Matera V., ''Etnografia, scritture e rappresentazioni dell'antropologia'', Carocci, Roma, 1997.
+* Fabietti U., [[Francesco Remotti|Remotti F.]] (a cura di), ''Dizionario di antropologia. Etnologia, antropologia culturale, antropologia sociale'', Zanichelli, Bologna, 1997.
+* [[Clifford Geertz|Geertz, C.]], ''Interpretazione di culture'', Il Mulino, Bologna, 1998.
+* Geertz, C., ''Mondo Globale, mondi locali Cultura e Politica alla fine del XX secolo'', Il Mulino, Bologna, 1999.
+* Lombo J. A., Russo F., ''Antropologia filosofica.ti Una introduzione'', Ed. Università Pontificia della Santa Croce, Roma, 2007.
+* [[Margaret Mead|Mead M.]], Baldwin J., ''Dibattito sulla razza'', Rizzoli, Milano, 1973.
+* Moravia S., ''Lévi-Strauss e l'antropologia strutturale'', Sansoni, Firenze, 1973.
+
+== Voci correlate ==
+* [[Scienze etnoantropologiche]]
+* [[Antropologia fisica]]
+* [[Antropologia neo-esistenziale]]
+* [[Paleoantropologia]]
+* [[Antropologia culturale]]
+* [[Antropologia delle religioni]]
+* [[Antropologia sociale]]
+* [[Antropologia teatrale]]
+* [[Sociologia]]
+* [[Archeologia]]
+* [[Etnologia]]
+* [[Etnografia]]
+* [[Ricerca etnografica]]
+* [[Etnomusicologia]]
+* [[Etnomatematica]]
+* [[Etnopsichiatria]]
+* [[Natura umana]]
+* [[:Categoria:Musei etnografici]]
+
+== Altri progetti ==
+{{interprogetto|q|q_preposizione=sull'|commons=Category:Anthropology|commons_preposizione=sull'|wikt=antropologia|etichetta=antropologia}}
+
+== Collegamenti esterni ==
+* {{cita web|http://antropologiaonline.blogspot.com|Antropologia Online}}
+* {{cita web|http://digilander.libero.it/antropogica/index.htm|Storia dell'antropologia}}
+* {{cita web|http://www.homolaicus.com/teoria/antropologia/antropologia_culturale.htm|Storia dell'antropologia culturale di Cecilia Gatto Trocchi}}
+* {{cita web|http://movinganthropology.org/|Moving Anthropology Student Network}}
+* [http://www.antropologica.unisi.it/index.php/Wikipedia Antropologica] Sito in mediawiki interamente dedicato alle discipline etno-antropologiche.
+* [http://www.antrocom.org/annuario Annuario Antropologico] - Annuario Antropologico Italiano, progetto dedicato a censire gli antropologi che operano in Italia e gli antropologi italiani che lavorano all'estero
+* {{cita web|http://www.educational.rai.it/lemma/testi/antropologia/copantropologia.htm|Spiegazione del lemma &quot;antropologia&quot;}}
+* {{cita web|url=http://www.territorioscuola.com/tsodp/dmoz.php3?browse=/World/Italiano/Scienza/Scienze_Sociali/Antropologia/|titolo=TerritorioScuola ODP - Risorse sull'antropologia}}
+* [http://homepage.uibk.ac.at/~c720126/humanethologie/ws/medicus/block1/MappingISBN1-59454-212-0.pdf Mapping Transdisciplinarity in Human Sciences] pdf
+* [http://homepage.uibk.ac.at/~c720126/humanethologie/ws/medicus/block1/TheoryHumanSci.ppt Fundamental Theory of Anthropology] ppt
+* [http://www.isita-org.com Istituto Italiano di Antropologia] - informazioni su incontri scientifici, attività di ricerca e articoli scientifici scaricabili riguardanti l'Antropologia evoluzionistica e gli approcci interdisciplinari
+* [http://www.isita-org.com/Antro-Digit/index.htm Archivio digitale italiano per l'Antropologia] - Un progetto di digitalizzazione di pubblicazioni, documenti e materiali di interesse storico-scientifico
+* [http://www.antrocom.org Antrocom Onlus] - Associazione senza scopo di lucro per la divulgazione e la ricerca nel campo dell'antropologia fisica e dell'antropologia culturale
+* {{Thesaurus BNCF}}
+
+{{Scienze etnoantropologiche}}
+{{Scienze sociali}}
+{{Zoologia}}
+{{Controllo di autorità}}
+{{Portale|antropologia|filosofia|sociologia}}
+
+[[Categoria:Antropologia| ]]</text>
+      <sha1>dfjg5cyszn1kd10ot0bozpef05ymeph</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agricoltura</title>
+    <ns>0</ns>
+    <id>5</id>
+    <revision>
+      <id>86034102</id>
+      <parentid>86034098</parentid>
+      <timestamp>2017-02-19T15:27:13Z</timestamp>
+      <contributor>
+        <username>Adalhard Waffe</username>
+        <id>1337338</id>
+      </contributor>
+      <comment>[[WP:LRC|LiveRC]] : Annullate le modifiche di [[Special:Contributions/95.250.216.202|95.250.216.202]] ([[User talk:95.250.216.202|discussione]]), riportata alla versione precedente di [[User:151.27.91.198|151.27.91.198]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Nd||Coltura (disambigua)|Coltura}}
+{{Nd|la rivoluzione agricola del Neolitico|Rivoluzione neolitica|Rivoluzione agricola}}
+
+[[File:Field Hamois Belgium Luc Viatour.jpg|thumb|upright=1.3|Campo di grano mietuto]]
+
+L''''agricoltura''' è l'[[attività umana]] che consiste nella coltivazione di [[specie]] [[vegetale|vegetali]]. Lo scopo principale dell'agricoltura è quella di ottenere prodotti dalle [[plantae|piante]], da utilizzare a scopo alimentare e non, ma sono possibili anche altre finalità che non prevedano l'asportazione dei prodotti.
+
+Tradizionalmente, nella cultura italiana, l'agricoltura è popolarmente riferita allo sfruttamento delle risorse vegetali a fini alimentari, mentre lo sfruttamento delle corrispondenti risorse di origine animale, l'allevamento, ne è quasi ritenuta antitetica. A fini scientifici e giuridici, comunque, entrambe le materie sono comunemente riunite nella più vasta accezione di agricoltura, che abbraccia la coltivazione delle piante ([[Arboricoltura|arboree]], [[Coltivazioni erbacee|erbacee]]), [[Allevamento|l'allevamento degli animali]] e [[Silvicoltura|lo sfruttamento delle foreste]].
+
+== Agricoltura, agronomia e raccolta ==
+I fattori naturali della produzione vegetale sono i seguenti:
+* ''Fattori biologici-mutrofici intrinseci'': sono tali le basi [[genetica|genetiche]] che influenzano l'[[anatomia]], la [[morfologia (biologia)]] e la [[fisiologia]] delle singole specie agrarie e le caratteristiche specifiche dei loro prodotti.
+* ''Fattori biologici estrinseci'': sono tali le relazioni [[ecologia|ecologiche]] che si instaurano fra le specie agrarie e gli altri organismi viventi (piante, animali, microrganismi) che popolano l'ecosistema naturale, con interazioni di [[competizione]], [[predazione]], [[parassitismo]], [[simbiosi mutualistica|simbiosi]], [[neutralismo]], ecc.
+* ''Fattori climatici'': sono tali i fenomeni dovuti all'interazione dell'[[atmosfera]] e del [[sole]] con la superficie terrestre nelle sue diverse componenti ([[litosfera]], [[idrosfera]], [[biosfera]]). I principali fattori climatici che influenzano la produzione vegetale sono la [[radiazione solare]], la [[temperatura]], le [[precipitazioni]] o idrometeore, il [[vento]], l'[[umidità atmosferica]], l'[[evapotraspirazione]], la composizione chimica dell'[[aria]]. Di minore rilevanza diretta è invece la [[pressione atmosferica]].
+* ''Fattori pedologici'': sono tali i fenomeni dovuti all'interazione del [[Suolo|terreno]] con l'idrosfera, l'atmosfera, il sole, l'idrosfera e la biosfera. Il terreno è un ambiente complesso, derivato dalla [[pedogenesi]], generato dall'equilibrio fra la litosfera e gli altri elementi che interagiscono sulla superficie terrestre. Sono fattori pedologici le [[proprietà fisiche del terreno]], le [[proprietà chimiche del terreno|proprietà chimiche]], le [[Pedologia|proprietà biologiche]], che nel complesso concorrono a determinarne la [[fertilità]].
+[[File:Murale a Riomaggiore-DSCF9071.JPG|thumb|La vita quotidiana di agricoltori all'opera su una ''terrazza'' delle [[Cinque Terre]] (particolare di un [[Murales|murale]] a [[Riomaggiore]])]]
+A differenza della semplice [[raccolta]] dei prodotti naturali della [[terra]], l'agricoltura è una tecnica che interviene modificando i fattori naturali della produzione vegetale allo scopo di incrementare, in qualità e quantità, il prodotto. La raccolta, infatti, sfrutta la produzione naturale del tutto subordinata alle esigenze specifiche delle piante e alle dinamiche dell'[[ecosistema]] senza alcun intervento dell'uomo. L'agricoltura prevede invece l'intervento dell'uomo nel correggere, a suo favore, le condizioni intrinseche ed estrinseche che determinano la produzione vegetale.
+
+Gli interventi dell'uomo che concorrono a delineare un'attività agricola, distinguendola da quella della semplice raccolta, sono ad esempio i seguenti:
+* ''Interventi sui fattori biologici intrinseci'': sono tali ad esempio la [[selezione naturale|selezione]], il [[miglioramento genetico]], le [[biotecnologia|biotecnologie]], l'[[ibridazione tecnologica|ibridazione]], la [[potatura]], l'[[innesto]], la densità di piantagione. Nel complesso questi interventi concorrono a indirizzare la naturale tendenza produttiva delle singole specie agrarie verso specifiche esigenze dell'uomo.
+* ''Interventi sui fattori biologici estrinseci'': sono tali ad esempio il [[diserbo]], la [[fitoiatria]] e la difesa dei [[vegetali]] in senso lato, che mirano a contenere i fenomeni di antagonismo biologico, altri come la [[consociazione]] o forme più o meno avanzate di biotecnologia ([[micorizzazione]], [[batteri]]zzazione e altre forme di inoculo di organismi simbionti), mirano a promuovere fenomeni di sinergia biologica. Altri ancora, come l'[[avvicendamento colturale]], hanno un ruolo complesso nel determinare l'equilibrio fra antagonismi e sinergie.
+* ''Interventi sui fattori climatici'': sono tali ad esempio gli apprestamenti protettivi mirati a ridurre l'influenza negativa del [[clima]] o potenziarne quella positiva fino a correggere drasticamente uno o più fattori. Sono interventi sui fattori climatici l'allestimento di [[frangivento|frangiventi]], di opere di protezione dal freddo ([[serra]], [[tunnel]], [[pacciamatura]], ecc.), l'[[irrigazione]]. Meno palese è il ruolo svolto da altre pratiche agricole in quanto si tratta di forme di adattamento a condizioni climatiche esistenti: sono tali la scelta dell'epoca di [[semina]], il [[trapianto (botanica)|trapianto]], la scelta [[cultivar|varietale]], la densità di piantagione, l'orientamento dei filari, alcune [[lavorazioni del terreno]], ecc.
+* ''Interventi sui fattori pedologici'': sono i più complessi perché trattasi di azioni che possono modificare contemporaneamente differenti proprietà del terreno. Sono tali le [[lavorazioni del terreno]] e l'[[ammendamento]], che influenzano principalmente (ma non solo) le proprietà fisiche, la [[fertilizzante|fertilizzazione]], che influenza principalmente le proprietà chimiche ma ha un ruolo non secondario anche su quelle fisiche e biologiche, l'irrigazione, che influenza le proprietà fisiche, chimiche e biologiche, ecc.
+
+[[File:Greenhouse for strawberry.jpg|thumb|Coltivazione in serra delle fragole]]
+L'[[agronomia]] è una scienza applicata che studia il ruolo dei singoli fattori della produzione vegetale e le interazioni reciproche, elabora le tecniche agricole con il coordinamento dei fattori a differenti livelli, al fine di ottimizzare la produzione ai fini economici. Per estensione agronomia e agricoltura sono talvolta usati come sinonimi, tuttavia, a rigore l'agronomia è una scienza applicata collegata alle altre scienze ([[biologia]], [[chimica]], [[fisica]], [[geologia]], ecc.), il cui ambito principale d'applicazione è l'agricoltura. L'agricoltura è invece un insieme di tecniche che riassumono le conoscenze [[empirismo|empiriche]] tramandate di generazione in generazione in una pratica millenaria e quelle tecniche fornite dalla ricerca scientifica in campo agronomico. Le varie forme di agricoltura derivano dal ruolo ponderale che hanno, da un lato, l'agronomia e, dall'altro, la tradizione.
+
+== Storia dell'agricoltura ==
+{{Vedi anche|Storia dell'agricoltura}}
+La storia e l'evoluzione dell'agricoltura vanno di pari passo con lo sviluppo tecnologico umano e lo sviluppo di conoscenze o tecniche di coltivazione. In generale nella storia dell'agricoltura si passa progressivamente, attraverso varie tappe, da un'[[agricoltura di sussistenza]], ad un'[[agricoltura estensiva]] basata su [[latifondo]] e la [[rotazione delle colture]] fino ad un'agricoltura di tipo [[agricoltura intensiva|intensivo]] e specializzata, sempre più meccanizzata, con uso di [[fertilizzante|fertilizzanti]] e tecniche di [[ingegneria genetica]] e con finalità di [[commercio|commercializzazione]] sul relativo [[mercato agricolo]], sebbene queste tipologie di coltivazione continuino a coesistere tutt'oggi in diverse parti del mondo, legate al livello di [[sviluppo economico]] del rispettivo paese di interesse.
+
+=== Origini ===
+{{Vedi anche|Rivoluzione neolitica}}
+Dati dalla ricerca molecolare e archeologica generati nel corso degli ultimi 15 anni indicano che l'agricoltura è iniziata in modo indipendente in un'area del mondo molto più grande di quanto pensato in precedenza, e comprendente una vasta gamma di taxa. Almeno 11 regioni del Vecchio e del Nuovo Mondo sono stati coinvolti come centri indipendenti di origine, comprendenti regioni geograficamente isolate sulla maggior parte dei continenti, ma molti di più sono stati suggeriti &lt;ref&gt;Larson, G.; Piperno, D. R.; Allaby, R. G.; Purugganan, M. D.; Andersson, L.; Arroyo-Kalin, M.; Barton, L.; Climer Vigueira, C.; Denham, T.; Dobney, K.; Doust, A. N.; Gepts, P.; Gilbert, M. T. P.; Gremillion, K. J.; Lucas, L.; Lukens, L.; Marshall, F. B.; Olsen, K. M.; Pires, J. C.; Richerson, P. J.; Rubio De Casas, R.; Sanjur, O. I.; Thomas, M. G.; Fuller, D. Q. (2014). &quot;Current perspectives and the future of domestication studies&quot;. Proceedings of the National Academy of Sciences 111 (17): 6139. doi:10.1073/pnas.1323964111.&lt;/ref&gt; Il primo sviluppo è datato circa 11.500 anni fa, separatamente nella mezzaluna fertile e al Chogha Golan nel moderno Iran, dove orzo selvatico, grano e lenticchie sono stati coltivati e dove le forme domestiche di grano sono apparsi circa 9800 aC &lt;ref&gt;&quot;Farming Was So Nice, It Was Invented at Least Twice&quot;. Science. 4 July 2013.&lt;/ref&gt;. 
+L'agricoltura sarebbe quindi evoluta circa 10.000 anni fa attraverso la [[Domesticazione delle piante|domesticazione]]. 
+
+Pur esistendo esempi di insediamenti stanziali anche notevoli precedenti all'avvio delle coltivazioni, fu l'introduzione dell'agricoltura a dare il via allo sviluppo di comunità sedentarie di sempre maggiori dimensioni, progressivamente strutturati in villaggi e città&lt;ref&gt;{{Cita libro|titolo=[[Breve storia della vita privata]]|autore=[[Bill Bryson]]|editore=Guanda|anno= 2011|annooriginale=2010|pp=38-44|ISBN=978-88-6088-415-2}}&lt;/ref&gt;. L'economia dell'[[storia dell'Egitto|Egitto]] era basata sull'agricoltura e fu tra le prime popolazioni a utilizzare l'[[aratro]] in legno, e [[zappa (attrezzo)|zappa]]; soprattutto nel bacino del [[Medio Oriente]] e del Mediterraneo, l'uomo, abbandonata la vita nomade per insediarsi stabilmente, cominciò ad addomesticare gli animali. L'allevamento garantiva una maggiore disponibilità di [[carne]] e [[latte]], oltreché materie prime come [[lana]] e [[Cuoio|pelli]] e fino alla scoperta dei [[Motore a combustione interna|motori a scoppio]], fu la più importante forza di lavoro come aiuto nell'aratura e nella fertilizzazione del terreno.
+
+Il rapporto tra la proprietà della terra e ruolo [[Società (sociologia)|sociale]] divenne ben presto fondamentale. Nel mondo classico e latino, il sistema agrario si basava sulla divisione della terra in funzione all'esigenza della città e sull&lt;nowiki&gt;'&lt;/nowiki&gt;''[[ager publicus]]''&lt;ref&gt;Nell'[[antica Roma]], le leggi agrarie prevedevano che il terreno di patrimonio pubblico, frutto di conquiste militari, fosse concesso in uso ai contadini. L&lt;nowiki&gt;'&lt;/nowiki&gt;''[[ager publicus]]'' sparì intorno al II secolo d.C.&lt;/ref&gt; oltreché nella rotazione biennale dove, in [[autunno]], circa metà della terra veniva seminata con cereali e l'altra metà veniva lasciata a riposo (maggese). Il secondo anno s'invertivano le due porzioni.
+
+=== Nuove piante ===
+Durante il [[Medioevo]] giunsero in Europa nuove piante portate dagli arabi: [[Oryza sativa|riso]], [[Gossypium|cotone]], [[carrubo]], [[pistacchio]], [[spinacio]], [[agrumi]]. Dopo la scoperta dell'America giunsero il [[mais]], la [[Solanaceae|patata]], la [[zucca]], il [[fagiolo]], l'[[Arachis hypogaea|arachide]], il [[pomodoro]], il [[peperone]], la [[papaya]].
+
+=== La prima rivoluzione agricola ===
+L'agricoltura basata sulla rotazione triennale e sul maggese rimase predominante fino al XVII secolo. Il progressivo sviluppo dei commerci, tuttavia, stimolò gradualmente l'adozione di nuove tecniche produttive.
+
+In particolare, nelle [[Fiandre]] e nel [[Brabante Vallone|Brabante]] il terreno era poco fertile, ma il notevole sviluppo del commercio marittimo fece aumentare notevolmente la domanda di prodotti quali il lino per le tele, i coloranti per il panno, l'orzo e il luppolo per la birra, la [[Cannabis|canapa]] per le funi, il tabacco ecc. La densità della popolazione, inoltre,
+favoriva lo sviluppo dell'orticoltura e della frutticoltura. Si adottarono quindi nuove tecniche basate sulla rotazione pluriennale e sulla sostituzione del maggese con pascoli per il bestiame anche per ottenerne [[Concimazione|concime naturale]].
+
+Tali innovazioni vennero studiate da esperti europei ed americani. L'inglese Richard Weston visitò le province fiamminghe intorno al 1650 e descrisse in una sua famosa opera, ''A discourse of husbandrie used in Brabant and Flanders'', il loro metodo basato sulla rotazione delle colture (lino, rapa, avena, trifoglio). I nuovi metodi
+dettero origine al cosiddetto ''sistema di [[Norfolk]]'', generalmente considerato il prototipo di una nuova agricoltura che, grazie alla rotazione e ad altri aspetti ([[Enclosures|recinzioni]], grandi aziende, lunghe affittanze, [[aratro]] in metallo tirato da cavalli ecc.), consentì all'Inghilterra di esportare grandi quantità di grano e farine nel periodo 1700-1770. Secondo [[Paul Bairoch]], il notevole sviluppo dell'agricoltura stimolò la successiva [[rivoluzione industriale]] grazie alla domanda di aratri e altri attrezzi in metallo.
+
+Altri paesi seguirono l'esempio dell'Inghilterra. Ad esempio, in Francia, in cui le tecniche agricole medioevali dominarono fino al 1750, la scuola [[Fisiocratici|fisiocratica]] di [[François Quesnay]] propose espressamente fin dal 1756 (data dell'articolo ''Fittavoli'' che Quesnay scrisse per l'[[Encyclopédie]]) l'adozione del modello inglese.
+
+[[File:Italian peasant girl.jpg|thumb|Giovane contadina italiana, fine Ottocento]]
+
+=== La seconda rivoluzione agricola ===
+La rivoluzione industriale chiamò a sé dalle campagne numerosi braccianti che si riversarono verso altri continenti e/o nelle grandi città. In Italia la [[migrazione]] fu dal sud verso il triangolo [[Piemonte]]/[[Veneto]]/[[Emilia]] e per contrastarla furono previsti dei piani governativi ossia piani di bonifica delle terre governative che venivano destinate all'agricoltura.
+
+Nel corso del XIX secolo migliori strumenti aratori e sistemi di semina, acquisizione sul mercato di nuove sementi e di nuove piante con elevata produttività ([[mais]]), la comparsa delle macchine agricole e dei [[Concimazione|concimi chimici]], attuarono una profonda ristrutturazione rurale che stimolò ancora la costruzione di nuove attrezzature e macchine per tutte le esigenze lavorative agrarie.
+L'attività agricola divenne ben presto di tipo industriale nei [[Primo Mondo|Paesi economicamente avvantaggiati]], mentre nell'[[Europa dell'Est]], Sud America, Asia e Africa rimasero grandi terreni non coltivati, anche se coltivabili.
+
+=== Agricoltura moderna ===
+[[File:Tractors in Potato Field.jpg|thumb|left|Coltivazione di [[Solanum tuberosum|patate]]]]
+Nei secoli, e sino a tempi recenti anche nel Mondo Occidentale, l'agricoltura ha avuto sempre primaria importanza per lo sviluppo dei popoli e degli Imperi. Oggi è spesso degnata di un'attenzione superficiale nelle economie moderne, mentre resta fonte primaria di sussistenza e perno dello sviluppo economico dei paesi più poveri ed arretrati. L'importanza di questa pratica è dimostrata dal fatto di essere a tutti gli effetti una [[scienza]] e di essere ormai al confine con numerose altre scienze come la [[genetica]] e la [[biologia]] sia animale che vegetale.
+
+I governi dei [[paesi industrializzati]] tra il [[1960]] e fine anni novanta hanno indotto la cosiddetta [[rivoluzione verde]], ossia hanno investito in maniera consistente nella ricerca agricola, direttamente sui campi degli agricoltori, cercando altri sistemi per incrementare la produzione alimentare con lo sviluppo di prodotti pesticidi e fertilizzanti, incoraggiandoli ad utilizzare queste nuove tecnologie e rivoluzionando le tradizionali pratiche agrarie con l'abbandono e l'estinzione di molte varietà locali e tradizionali.
+{{vedi anche|Rivoluzione verde}}
+
+L'agricoltura moderna si basa sempre più sull'immissione di energia esterna al sistema sotto forma di [[fitofarmaco|fitofarmaci]], meccanizzazione, [[fertilizzante|fertilizzanti]], [[ingegneria genetica]], [[tecnologia]]; si parla quindi di [[agricoltura intensiva]], in contrapposizione all'[[agricoltura estensiva]].
+
+Ferme restando le implicazioni negative di una pratica agricola intensiva troppo spinta, la continua crescita dei fabbisogni alimentari mondiali, la necessità di mantenere bassi i prezzi degli alimenti, la riduzione della superficie coltivabile, l'esigenza di coltivare anche in zone nettamente sfavorevoli (talvolta anche per inquinamento) e di poter ottenere prodotti di qualità nutrizionale elevata, pongono gli operatori davanti ad una limitata rosa di scelte.
+
+Le pratiche tradizionali usate prima della rivoluzione verde avevano il difetto di non essere in grado di fornire prodotti in larga quantità ed economici, attraenti per i consumatori, ma soprattutto coerenti con gli standard qualitativi e di sicurezza imposti dalla legge nonché adatti ai processi di trasformazione industriale. Una parte di questa agricoltura tradizionale prende oggi il nome di [[agricoltura biologica]], che costituisce comunque una nicchia di mercato di una certa rilevanza e presenta prezzi medio-alti.
+
+D'altra parte l'agricoltura intensiva presenta evidenti problemi di sostenibilità e per questo di anno in anno cresce l'esigenza di tecnologia di settore sempre più attenta alle problematiche ambientali.
+
+Tra le soluzioni tecnologiche, si è avuto da un lato l'adozione di approcci di lotta integrata, dall'altro il miglioramento dei composti chimici (meno tossici e persistenti) e delle varietà impiegate. In questa ottica si collocano anche gli O.G.M., [[Organismi geneticamente modificati]].
+
+'''Oggi l'agricoltura'''
+
+''fino a pochi anni fa, l'agricoltura veniva praticata a mano senza macchine ma con solo lavoro animale e umano. Oggi il lavoro umano nell'agricoltura è quasi assente per la presenza di macchine''
+
+=== Sviluppo italiano ===
+[[File:Andrea pisano, homogirus ovvero l'agricoltura, 1348-50, dal lato est del campanile 01.JPG|thumb|''Agricoltura'', formella del [[Campanile di Giotto]], [[Andrea Pisano]], [[1334]]-[[1336]], Firenze]]
+Anche se la meccanizzazione ha uno stampo anglosassone, le primissime macchine agricole del [[XVII secolo]], sono il frutto dell'ingegno italiano:
+* Giuseppe Locatelli, costruì la prima semplice [[seminatrice]], composta da un cassetto contenente i semi applicato all'aratro. Procedendo, l'aratro faceva ruotare un distributore a cucchiaio inserito nel cassetto ed il seme cadeva a terra.
+* Giovanni Cavallina, costruì la prima macchina seminatrice meccanica, che con un sistema di ripiani a fori e dei piccoli tubi, deponeva i semi nei solchi appena tracciati dall'aratro.
+* Nel [[XIX secolo]] Lambruschini e i fratelli Ridolfi, costruirono un rovesciatore di tipo elicoidale per sminuzzare le zolle più grosse.
+
+La prima forza motrice di tipo meccanico fu la [[macchina a vapore]], utilizzata per far funzionare le prime trebbiatrici per cereali e le presse per paglia e fieno.
+
+Negli Stati Uniti si costruì il primo trattore, la macchina motrice per eccellenza. Erano però macchine pesantissime e difficili da maneggiare. Dopo vent'anni di prove, le industrie Ford fornirono agli agricoltori americani trattori più leggeri, facili da riparare, semplici nella manutenzione, a prezzi accessibili.
+* nel 1930, le industrie [[Landini (azienda)|Landini]] costruirono il primo trattore con motore testa calda, ben utilizzato nelle grandi opere di bonifica e dissodamento.
+
+== Anno internazionale dell'agricoltura familiare ==
+[[File:Logo dell'anno internazionale dell'agricoltura familiare.jpeg|thumbnail|Logo dell'anno internazionale dell'agricoltura familiare]]
+Durante la 66ª sessione dell'[[assemblea generale delle Nazioni Unite]], il 2014 è stato formalmente dichiarato “Anno internazionale dell'agricoltura familiare” (IYFF).
+
+La [[FAO]] è stata invitata a facilitarne la realizzazione, in collaborazione con i governi, le agenzie di sviluppo internazionale, le organizzazioni di [[agricoltori]] e altre organizzazioni attinenti al sistema delle [[Nazioni Unite]]; così come le [[organizzazioni non governative]].&lt;ref&gt;[http://www.fao.org/family-farming-2014/en/ 2014 International Year of Family Farming&lt;!-- Titolo generato automaticamente --&gt;]&lt;/ref&gt;
+
+L'obiettivo dell'anno internazionale è quello di riposizionare l'agricoltura familiare al centro delle politiche agricole, ambientali e sociali delle agende nazionali per individuare le lacune e le opportunità esistenti e per promuovere uno sviluppo più equo e bilanciato.
+
+L'anno internazionale dell'agricoltura familiare intende promuovere il dibattito e la cooperazione a livello nazionale, regionale e globale con lo scopo di identificare al meglio le sfide affrontate dagli agricoltori per poter efficacemente sostenere sia loro che le loro famiglie.
+
+== Agricoltura e arte ==
+[[File:Vincent van Gogh (1853-1890) - Wheat Field with Crows (1890).jpg|thumbnail|il dipinto &quot;Campo di grano&quot; di [[Vincent van Gogh]]]]
+
+Molti artisti, soprattutto nel XIX secolo in coincidenza con il trionfo dell'[[Impressionismo]] e della pittura ''en plein air'', hanno scelto la vita dei campi come oggetto delle loro opere.
+
+Colui che sovrasta tutti gli altri per la capacità di raccontare la fatica della povera gente e di dare un senso umile e religioso a quella fatica è [[Vincent van Gogh]], il pittore pazzo, morto suicida quando aveva appena 37 anni. Ad [[Arles]], nel sud della [[Francia]], s'innamorò dei colori della campagna provenzale. Usciva di casa all'alba, raggiungeva i campi, e dipingeva fino a sera, ne uscì il quadro &quot;La mietitura&quot;. Aveva adottato gli stessi orari e si sottoponeva alla stessa fatica dei contadini ed alla fine della giornata ne coglieva i frutti: un quadro carico di colori incredibili e gioiosi. Nell'ultimo periodo della sua vita, i campi si trasformarono in oscuri presagi di sventura.
+Ad [[Auvers-sur-Oise]], nei dintorni di [[Parigi]], dipinse immagini sempre più cupe. Il suo ultimo soggetto fu un [[Campo di grano con corvi|campo di grano]] sorvolato da uno stormo di corvi. In quel campo, pochi giorni dopo, si sparò un colpo di rivoltella al fianco.
+
+== Note ==
+&lt;references /&gt;
+
+== Bibliografia ==
+* Babel W. ''Congiunture agrarie e crisi agrarie'' Einaudi, Torino, 1976
+* Bairoch P., ''Rivoluzione industriale e sottosviluppo'', Einaudi, Torino, 1967
+* Bloch Marc, ''Les caractères originaux de l'histoire rurale française'', A. Colin, Paris, 1952
+* Daclon C.M., ''Agricoltura e riforme mondiali'', in Agricoltura, Rivista del Ministero Politiche Agricole e Forestali, n. 300, 2000
+* Daclon C.M., ''Biotecnologie e agricoltura'', in Agricoltura, Rivista del Ministero Politiche Agricole e Forestali, n. 302, 2000
+* Saltini A., ''Storia delle scienze agrarie'', 4 volumi, Bologna 1984-89, ISBN 88-206-2412-5, ISBN 88-206-2413-3, ISBN 88-206-2414-1, ISBN 88-206-2415-X
+* Saltini A. ''Processo all'agricoltura'', Prefazione di Giovanni Marcora, Bologna, 1979
+* Saltini A. ''Agrarian sciences in the west'', Firenze, 2015 
+* Sereni E.''Storia del paesaggio agrario italiano'' Laterza, 1989
+* Slicher van Bath Bernard H., ''Storia agraria dell'Europa occidentale (500-1850)'', Einaudi, Torino, 1972 (traduzione italiana dall'edizione inglese ''The Agrarian History of Western Europe, A. D. 500&amp;nbsp;– 1850'', E. Arnold, London, 1963, curata dallo stesso autore; edizione originale: ''De agrarische geschiedenis van West-Europa (500-1850)'', Het Spectrum, Utrecht-Antwerpen, 1962)
+* Vignoli G., ''Profili giuridici della produzione agricola'', Giuffrè, Milano, 1991.
+* Vignoli G. ''Aspetti giuridici delle attività genetiche in agricoltura'', Giuffrè, Milano, 1986.
+* Vignoli G. ''I territori italofoni non appartenenti alla Repubblica Italiana &quot;agraristica&quot;'', Giuffrè, Milano, 1995.
+
+== Voci correlate ==
+* [[Agricoltura a sviluppo pianificato]]
+* [[Accademia dei Filergiti]]
+* [[Accademia dei Georgofili]]
+* [[Agricoltura biologica]]
+* [[Agricoltura biodinamica]]
+* [[Agricoltura di piantagione]]
+* [[Agricoltura di mercato]]
+* [[Agricoltura di sussistenza]]
+* [[Agricoltura integrata]]
+* [[Agricoltura urbana]]
+* [[Agrosilvicoltura]]
+* [[Agrosistema]]
+* [[Latifondo]]
+* [[Apprestamento protettivo]]
+* [[Consiglio per la ricerca e la sperimentazione in agricoltura]]
+* [[Domesticazione delle piante]]
+* [[Edilizia rurale]]
+* [[Istituto agronomico per l'oltremare]]
+* [[Organismo geneticamente modificato]]
+* [[Paesaggio agrario]]
+* [[Pezzatura]]
+* [[Rivoluzione verde]]
+
+== Altri progetti ==
+{{Interprogetto|q|etichetta=agricoltura|wikt=agricoltura|commons=Agriculture|s=Categoria:Agricoltura|commons_preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{Thesaurus BNCF}}
+* [http://ec.europa.eu/agriculture/index_it.htm Agricoltura e sviluppo rurale] ''Commissione europea''
+* [http://www.reformthecap.eu www.reformthecap.eu] Un riassunto degli argomenti concernente la politica agricola con link ai principali studi di valutazione delle politiche agricole e riassunti degli studi più rilevanti in materia.
+* [http://www.politicheagricole.gov.it MiPAAF] ''Home Page del Ministero delle Politiche Agricole Alimentari e Forestali''
+* [http://www.politicheagricole.gov.it/SviluppoRurale La sezione &quot;Sviluppo Rurale del MiPAAF&quot;] ''Sviluppo Rurale e Infrastrutture''
+* [http://www.agricolturaitalianaonline.gov.it/ Agricoltura italiana online] ''Rivista telematica del Ministero delle Politiche Agricole Alimentari e Forestali''
+* {{cita web|url=http://www.wwf.it/client/render.aspx?content=0&amp;root=549|titolo=Perdita di Suolo sul sito del WWF Italia}}
+* {{cita web|url=http://www.wwf.it/client/render.aspx?content=0&amp;root=1010|titolo=Acqua e Agricoltura sul sito del WWF Italia}}
+* {{cita web|http://www.agrinotizie.com|Agricoltura Notizie (Agrinotizie.com)}}
+* {{cita web|http://agronotizie.imagelinenetwork.com|Agronotizie - Le novità per l'agricoltura}}
+* [[René Dumont]], [http://www.treccani.it/enciclopedia/agricoltura_%28Enciclopedia-del-Novecento%29/ Agricoltura], ''Enciclopedia del Novecento'' (1975)
+* R. Thomas Fulton, [http://www.treccani.it/enciclopedia/agricoltura_res-9c42da64-87f0-11dc-8e9d-0016357eee51_%28Enciclopedia-del-Novecento%29/ Agricoltura], ''Enciclopedia del Novecento'', I Supplemento (1989)
+* David B. Grigg, [http://www.treccani.it/enciclopedia/rivoluzioni-agricole_%28Enciclopedia-delle-scienze-sociali%29/ Rivoluzioni agricole], ''Enciclopedia delle scienze sociali'' (1997)
+* Emrys Jones, [http://www.treccani.it/enciclopedia/agricoltura_%28Enciclopedia-delle-scienze-sociali%29/ Agricoltura], ''Enciclopedia delle scienze sociali'', 1991.
+* [[Mario Liverani]], [http://www.treccani.it/enciclopedia/vicino-oriente-antico-agricoltura-e-irrigazione_%28Storia-della-Scienza%29/ Agricoltura e irrigazione nel Vicino Oriente antico], ''Storia della Scienza'' (2001)
+* Jean-Marie Martin, [http://www.treccani.it/enciclopedia/agricoltura_(Federiciana)/ Agricoltura], ''[[Enciclopedia Federiciana]]'', I vol., 2005.
+
+{{scienze applicate}}
+{{Controllo di autorità}}
+{{Portale|agricoltura}}
+
+[[Categoria:Agricoltura| ]]</text>
+      <sha1>dd6j3pbtklms3p7mgwcvcu2qzzuto5p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Architettura</title>
+    <ns>0</ns>
+    <id>6</id>
+    <revision>
+      <id>85889968</id>
+      <parentid>85889949</parentid>
+      <timestamp>2017-02-11T23:58:38Z</timestamp>
+      <contributor>
+        <username>Elwood</username>
+        <id>26630</id>
+      </contributor>
+      <minor />
+      <comment>Annullate le modifiche di [[Special:Contributions/82.48.86.56|82.48.86.56]] ([[User talk:82.48.86.56|discussione]]), riportata alla versione precedente di [[User:Elwood|Elwood]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Avvisounicode}}
+{{nota disambigua|l'architettura per l'[[informatica]] e l'[[elettronica]]|Architettura (computer)}}
+[[File:PantheonRoma.jpg|thumb|upright=1.4|[[Incisione]] dell'interno del [[Pantheon (Roma)]]; ''Pierers Konversationslexikon encyclopedia'', editore: [[Joseph Kürschner]], 1891. Il [[Pantheon (Roma)|Pantheon]] è attribuito all'architetto [[Apollodoro di Damasco]]]]
+
+L''''architettura''' è la disciplina che ha come scopo l'organizzazione dello spazio a qualsiasi scala, ma principalmente quella in cui vive l'essere umano. Semplificando si può dire che essa attiene principalmente alla [[progettazione]] e [[Costruzione edilizia|costruzione]] di un [[bene immobile|immobile]] o dell'[[Antropizzazione|ambiente costruito]]. In essa concorrono aspetti [[tecnica|tecnici]] ed [[arte|artistici]]. Insieme alla [[scultura]], fa parte delle cosiddette [[Arti visive|arti visive plastiche]].
+
+Da quando l'uomo ha avuto capacità cognitive tali da potersi organizzare in civiltà, l'architettura è sempre esistita. L'architettura è nata anzitutto per soddisfare le necessità biologiche dell'uomo quali la protezione dagli [[clima|agenti atmosferici]], e proprio per questo è tra le discipline maggiormente presenti in tutte le civiltà. Solo in un secondo momento, con lo sviluppo della [[divisione del lavoro]] nella [[Società (sociologia)|società]], alla funzione primaria vennero aggiunte funzioni secondarie in numero sempre crescente.
+
+Con la comparsa di [[estetica|caratteri estetici]] si ebbe la nascita dell'architettura anche come [[arti visive|arte visiva]], dotata però di proprie caratteristiche peculiari. Sarebbe riduttivo anche parlare di valori estetici in quanto una buona architettura è spesso frutto di valori [[etica|etici]] e di uno studio antropologico.
+
+Definire l'architettura risulta difficile in quanto il fenomeno architettonico è stato sempre presente nella cultura dell'uomo, acquistando caratteristiche, definizioni, funzioni, aspetti spaziali e costruttivi spesso differenti o addirittura contrastanti da civiltà a civiltà o da epoca ad epoca.&lt;ref name=http://www.sapere.it/enciclopedia/architettura.html&gt;[http://www.sapere.it/enciclopedia/architettura.html architettura - Sapere.it]&lt;/ref&gt;
+
